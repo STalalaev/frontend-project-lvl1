@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "braingames training app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STalalaev/frontend-project-lvl1.git"
+  },
+  "author": "Semyon Talalaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STalalaev/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/STalalaev/frontend-project-lvl1#readme"
+}
